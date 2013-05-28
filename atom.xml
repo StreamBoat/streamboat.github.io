@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[StreamBoat]]></title>
+  <link href="http://streamboat.github.io/atom.xml" rel="self"/>
+  <link href="http://streamboat.github.io/"/>
+  <updated>2013-05-28T11:48:55+10:00</updated>
+  <id>http://streamboat.github.io/</id>
+  <author>
+    <name><![CDATA[Peter Fern]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
