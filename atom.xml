@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[StreamBoat]]></title>
-  <link href="http://streamboat.github.io/atom.xml" rel="self"/>
-  <link href="http://streamboat.github.io/"/>
-  <updated>2013-05-28T12:07:33+10:00</updated>
-  <id>http://streamboat.github.io/</id>
+  <link href="http://streamboat.io/atom.xml" rel="self"/>
+  <link href="http://streamboat.io/"/>
+  <updated>2013-05-28T12:11:58+10:00</updated>
+  <id>http://streamboat.io/</id>
   <author>
     <name><![CDATA[Peter Fern]]></name>
     
